@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on a CLI Random Number Project in Python (boring 🥱)
-- 🌱 I’m currently learning JavaScript and SQL. I am taking Harvard's CS50 Course.
+- 🔭 I’m currently working on a Rock Paper Scissors game (Ajoshi1336/rps)
+- 🌱 I’m currently learning Advanced JavaScript and Python. I am taking Harvard's CS50 Courses.
 - 👯 I’m looking to collaborate on ANYTHING.
 - 🤔 I’m looking for help with my programs. Leave a pull request or comment!
 - 💬 Ask me about Anything...
