@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2>My name is Aydin Joshi 🏀</h2>
-<h4>I am a Python and Web Coder.</h4>
+<h4>I am a Full Stack Developer, but I specialize in Front End Development.</h4>
 
 
 
