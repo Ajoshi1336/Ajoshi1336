@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I learned HTML/CSS when I was 8 years old!
 - 📈 My business is: <bold>Infinity Burst</bold> (on GitHub) - <a href="github.com/infinityburst">Click Here</a>
 
-<h2>Languages I know</h2>
+<!--<h2>Languages I know</h2>
 <p>Some of them I am not 100% fluent in</p>
 
 <div class="row">
@@ -33,5 +33,5 @@
       width="100"
       height="100">
   </div>
-</div>
+</div>-->
 
