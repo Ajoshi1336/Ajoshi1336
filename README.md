@@ -12,7 +12,7 @@
 - 📫 How to reach me: ajoshi1336@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learned HTML/CSS when I was 8 years old!
-- 📈 My business is: <bold>Infinity Burst</bold> (on GitHub) - <a href="github.com/infinityburst">Click Here</a>
+- 📈 My business is: <bold>Infinity Burst</bold> (on GitHub) - <a href="https://github.com/InfinityBurst">Click Here</a>
 
 <!--<h2>Languages I know</h2>
 <p>Some of them I am not 100% fluent in</p>
