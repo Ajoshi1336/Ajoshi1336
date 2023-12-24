@@ -1,18 +1,18 @@
 ### Hi there 👋
 <h2>My name is Aydin Joshi 🏀</h2>
-<h4>I am a Full Stack Developer, but I specialize in Front End Development.</h4>
+<h4>I am a Full Stack Developer</h4>
 
 
 
-- 🔭 I’m currently working on a Reading Website using Web Design and JS
-- 🌱 I’m currently learning Advanced JavaScript and Python. I am taking Harvard's CS50 Courses.
+- 🔭 I’m currently working on a React Application (shh... it's a surprise! 🤫)
+- 🌱 I’m currently learning Advanced JavaScript and Python.
 - 👯 I’m looking to collaborate on ANYTHING.
 - 🤔 I’m looking for help with my programs. Leave a pull request or comment!
 - 💬 Ask me about Anything...
 - 📫 How to reach me: ajoshi1336@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learned HTML/CSS when I was 8 years old!
-- 📈 My business is: <bold>Infinity Burst</bold> (on GitHub) - <a href="https://github.com/InfinityBurst">Click Here</a>
+- 📈 My business is: <bold>Infinity</bold> (on GitHub) - <a href="https://github.com/InfinityEngineering">Click Here</a>
 
 <!--<h2>Languages I know</h2>
 <p>Some of them I am not 100% fluent in</p>
